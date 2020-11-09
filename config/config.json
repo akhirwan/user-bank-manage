@@ -1,0 +1,7 @@
+{
+    "DB_USERNAME" : "root",
+    "DB_PASSWORD" : "Padaringan_k383k",
+    "DB_PORT" : "3306",
+    "DB_HOST" : "127.0.0.1",
+    "DB_NAME" : "localpedia"
+}
